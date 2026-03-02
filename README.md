@@ -1,4 +1,3 @@
-Here is a professional **README.md** based on your `task3.ipynb` file content.
 
 ---
 
